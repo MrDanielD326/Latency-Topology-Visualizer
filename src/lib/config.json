@@ -1,0 +1,11 @@
+{
+    "project": {
+        "name": "Latency Topology Visualizer",
+        "description": "Visualize global crypto exchange latency in real-time 3D map"
+    },
+    "colors": {
+        "AWS": "bg-orange-500",
+        "GCP": "bg-blue-500",
+        "Azure": "bg-cyan-500"
+    }
+}
